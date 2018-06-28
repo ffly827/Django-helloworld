@@ -25,7 +25,7 @@ SECRET_KEY = 'on&@grk05vl#d0d(uc7d&t2&ou%m@^1pc4+d8ewejb$3j+%aq+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-helloworld-django-helloworld.apps.10.104.206.182.nip.io']
 
 
 # Application definition
